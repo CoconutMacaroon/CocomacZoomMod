@@ -1,4 +1,4 @@
-# Zoom Mod
+# Cocomac's Zoom Mod
 
 This is my mod for Minecraft 1.7.10 for zooming in, like how Optifine does. <kbd>Z</kbd> activates zoom. <kbd>F</kbd> and <kbd>G</kbd> adjust the zoom level. Note that the zoom level can only be adjusted while zoom is off (e.g. when <kbd>Z</kbd> is not being pressed). The keys can be customized in the Minecraft settings.
 
