@@ -44,9 +44,11 @@ public class KeyHandler extends InputEventListener {
 
         */
 
-        // if the key is the Zoom key
+        // some output for debugging
         System.out.println("!!!!! ZM NUM DEBUG:");
         System.out.println(ClientProxy.zoomAmmount);
+
+        // if the key
         if(kb.getKeyCode() == 44) {
             if (!isRepeat) {
                 // this controls if the camera 'drifts' when zoom is on
